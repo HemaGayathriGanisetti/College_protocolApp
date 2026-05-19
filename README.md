@@ -367,6 +367,6 @@ Before running this project, install:
 
 # 👩‍💻 Author
 
-**Gayathri Ganisetti**
+**Hema Gayathri Ganisetti**
 
  
