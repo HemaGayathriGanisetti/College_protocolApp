@@ -156,6 +156,7 @@ npm install
 npx react-native start
 npx react-native run-android
 
+---
 # 🔐 Authentication
 
 This project uses a secure authentication system to protect user data and APIs.
@@ -167,6 +168,7 @@ This project uses a secure authentication system to protect user data and APIs.
 - Token-based session management (no server-side session storage)
 - Automatic authorization for protected routes
 
+---
 # 🧠 Future Improvements
 
 - 📢 Push Notifications  
